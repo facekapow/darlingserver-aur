@@ -1,0 +1,11 @@
+*.tar.zst
+darling-*
+!/darling-git.install
+darlingserver
+fmdb
+lzfse
+src
+xcbuild
+darling
+cctools-port
+pkg
